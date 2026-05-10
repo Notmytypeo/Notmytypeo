@@ -1,1 +1,1 @@
-This is a simply 8bit alu 
+This is a simple 8bit alu 
