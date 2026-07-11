@@ -1,1 +1,1 @@
-Hi i build random stuff.
+8 bit alu.
