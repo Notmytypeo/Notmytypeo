@@ -1,1 +1,1 @@
-This is a simple 8bit alu 
+Hi i build random stuff.
